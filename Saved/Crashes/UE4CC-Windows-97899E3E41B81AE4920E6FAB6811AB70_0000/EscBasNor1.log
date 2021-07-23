@@ -1,0 +1,1257 @@
+﻿Log file open, 07/15/21 12:17:47
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: EscBasNor1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204174
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Виктор Звягинский/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.15-09.17.47:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:529][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:543][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.15-09.17.47:543][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.15-09.17.47:544][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.15-09.17.47:544][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.15-09.17.47:544][  0]LogHAL: Display: Platform has ~ 16 GB [17090842624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.15-09.17.47:544][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.15-09.17.47:544][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.15-09.17.47:544][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.15-09.17.47:545][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.15-09.17.47:546][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Engine.ini]
+[2021.07.15-09.17.47:546][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/EscBasNor1/Saved/Config/Windows/Editor.ini]
+[2021.07.15-09.17.47:546][  0]LogInit: Computer: DESKTOP-0QSR8QO
+[2021.07.15-09.17.47:546][  0]LogInit: User: ВикторЗвягинский
+[2021.07.15-09.17.47:546][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.07.15-09.17.47:546][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.15-09.17.47:546][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.15-09.17.47:546][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.15-09.17.47:546][  0]LogMemory: Process Physical Memory: 140.48 MB used, 140.48 MB peak
+[2021.07.15-09.17.47:546][  0]LogMemory: Process Virtual Memory: 118.76 MB used, 118.76 MB peak
+[2021.07.15-09.17.47:546][  0]LogMemory: Physical Memory: 7611.61 MB used,  8687.49 MB free, 16299.10 MB total
+[2021.07.15-09.17.47:546][  0]LogMemory: Virtual Memory: 134207360.00 MB used,  10365.38 MB free, 134217728.00 MB total
+[2021.07.15-09.17.47:552][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.15-09.17.47:595][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.15-09.17.47:596][  0]LogInit: Using OS detected language (ru-RU).
+[2021.07.15-09.17.47:596][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.07.15-09.17.47:598][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.07.15-09.17.47:598][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.07.15-09.17.47:598][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.07.15-09.17.47:598][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.07.15-09.17.47:598][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.07.15-09.17.47:598][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.07.15-09.17.47:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.07.15-09.17.47:599][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.07.15-09.17.47:599][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.15-09.17.47:610][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.15-09.17.47:621][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.15-09.17.47:622][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.15-09.17.47:771][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.15-09.17.47:771][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.15-09.17.47:771][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.15-09.17.47:771][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.15-09.17.47:876][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.07.15-09.17.47:876][  0]LogD3D11RHI:       8079/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.15-09.17.47:879][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.15-09.17.47:879][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.15-09.17.47:879][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.15-09.17.47:885][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.15-09.17.47:885][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.15-09.17.47:885][  0]LogWindows: EnumDisplayDevices:
+[2021.07.15-09.17.47:885][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.07.15-09.17.47:885][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.07.15-09.17.47:886][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.07.15-09.17.47:886][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.07.15-09.17.47:886][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.15-09.17.47:886][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.07.15-09.17.47:886][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.07.15-09.17.47:886][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.07.15-09.17.47:886][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.07.15-09.17.47:954][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.15-09.17.47:954][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.15-09.17.47:954][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.15-09.17.47:972][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.15-09.17.47:973][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.15-09.17.48:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.15-09.17.48:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.15-09.17.48:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.15-09.17.48:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.15-09.17.48:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.15-09.17.48:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.15-09.17.48:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.15-09.17.48:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.15-09.17.48:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.15-09.17.48:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.15-09.17.48:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.15-09.17.48:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.15-09.17.48:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.15-09.17.48:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.15-09.17.48:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.15-09.17.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.15-09.17.48:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.15-09.17.48:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.15-09.17.48:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.15-09.17.48:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.15-09.17.48:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.15-09.17.48:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.15-09.17.48:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.15-09.17.48:448][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.15-09.17.48:454][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.15-09.17.48:501][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.15-09.17.48:502][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (../../../../Unreal Projects/EscBasNor1/Intermediate/Shaders/WorkingDirectory/4420/).
+[2021.07.15-09.17.48:502][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Виктор Звягинский/AppData/Local/Temp/UnrealShaderWorkingDir/E288907748AF70AC3306C4987D6D96DF/'.
+[2021.07.15-09.17.48:502][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.15-09.17.48:502][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.15-09.17.49:146][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.15-09.17.49:192][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Виктор Звягинский/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.15-09.17.49:192][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Виктор Звягинский/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.15-09.17.49:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/EscBasNor1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.15-09.17.49:192][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.15-09.17.49:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/EscBasNor1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.15-09.17.49:192][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.15-09.17.49:202][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.15-09.17.49:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.15-09.17.49:202][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.15-09.17.49:208][  0]LogDerivedDataCache: Speed tests for C:/Users/Виктор Звягинский/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.15-09.17.49:208][  0]LogDerivedDataCache: Display: Performance to C:/Users/Виктор Звягинский/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1012.40MBs, RandomWriteSpeed=213.70MBs. Assigned SpeedClass 'Local'
+[2021.07.15-09.17.49:209][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Виктор Звягинский/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.15-09.17.49:209][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.15-09.17.49:209][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.15-09.17.49:249][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.15-09.17.49:250][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.15-09.17.49:272][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.07.15-09.17.49:477][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.15-09.17.49:477][  0]LogInit: Active device profile: [000001FB10733200][000001FB0FE30FC0 49] Windows
+[2021.07.15-09.17.49:477][  0]LogInit: Profiles: [000001FB10733200][000001FB0FE30FC0 49] Windows, [000001FB106CCF00][000001FB0FE41140 49] WindowsNoEditor, [000001FB10731000][000001FB0FE452C0 49] WindowsServer, [000001FB106CED00][000001FB0FE49440 49] WindowsClient, [000001FB10732C00][000001FB0FE35580 49] IOS, [000001FB106CD600][000001FB0FE596C0 49] iPadAir, [000001FB10731600][000001FB0FE5D800 49] iPadAir2, [000001FB10680A00][000001FB10E79A80 49] IPadPro, [000001FB10680B00][000001FB10E71AC0 49] iPadAir3, [000001FB10732900][000001FB10E7DC40 49] iPadAir4, [000001FB10683400][000001FB10E80100 49] iPadMini2, [000001FB10731700][000001FB10E9C280 49] iPadMini3, [000001FB10683B00][000001FB10EA0400 49] iPadMini4, [000001FB10730300][000001FB10EA4580 49] iPadMini5, [000001FB106CE700][000001FB10EAC840 49] iPhone6, [000001FB106CE600][000001FB10EA8880 49] iPodTouch6, [000001FB10681000][000001FB10ED4B40 49] iPhone7, [000001FB10682F00][000001FB10ED0B80 49] iPodTouch7, [000001FB106CF000][000001FB10ED8D00 49] iPhone5S, [000001FB10683600][000001FB10EDCE80 49] iPhone6Plus, [000001FB106CE300][000001FB10EE1000 49] iPhone6S, [000001FB10680500][000001FB10EE5180 49] iPhone6SPlus, [000001FB106CDB00][000001FB10EE9300 49] iPhone7Plus, [000001FB10683800][000001FB10EED480 49] iPhoneSE, [000001FB106CCD00][000001FB10EF1600 49] iPhone8, [000001FB10681400][000001FB10E75740 49] iPhone8Plus, [000001FB106CC200][000001FB10EF5880 49] iPhoneX, [000001FB10681C00][000001FB10EF99C0 49] iPhoneXS, [000001FB106CC800][000001FB10F01B40 49] iPhoneXSMax, [000001FB10681700][000001FB10F05CC0 49] iPhoneXR, [000001FB106CC500][000001FB10F08180 49] iPhone11, [000001FB10681800][000001FB10F0C300 49] iPhone11Pro, [000001FB106CC100][000001FB10F10480 49] iPhone11ProMax, [000001FB10682000][000001FB10F14600 49] iPhoneSE2, [000001FB106CC600][000001FB10F18780 49] iPhone12Mini, [000001FB10681D00][000001FB10F1C900 49] iPhone12, [000001FB106CCC00][000001FB10F20A80 49] iPhone12Pro, [000001FB10683500][000001FB10F24C00 49] iPhone12ProMax, [000001FB106CE100][000001FB10F28D80 49] iPadPro105, [000001FB10682700][000001FB10F2CF00 49] iPadPro129, [000001FB106CF800][000001FB10F31080 49] iPadPro97, [000001FB10680200][000001FB10F35200 49] iPadPro2_129, [000001FB106CDC00][000001FB10F39380 49] iPad5, [000001FB10682500][000001FB10F3D500 49] iPad6, [000001FB106CD800][000001FB10F41680 49] iPad7, [000001FB10681F00][000001FB10EFD7C0 49] iPad8, [000001FB106CC900][000001FB10F45900 49] iPadPro11, [000001FB10682400][000001FB10F49A40 49] iPadPro2_11, [000001FB106CDF00][000001FB10F4DB80 49] iPadPro3_129, [000001FB10683700][000001FB10F55D00 49] iPadPro4_129, [000001FB106CC300][000001FB10F581C0 49] AppleTV, [000001FB10681100][000001FB10F5C340 49] AppleTV4K, [000001FB106CE400][000001FB10F604C0 49] TVOS, [000001FB10683100][000001FB10F64640 49] Mac, [000001FB106CD100][000001FB10F687C0 49] MacClient, [000001FB10733700][000001FB10F6C940 49] MacNoEditor, [000001FB10980B00][000001FB10F70AC0 49] MacServer, [000001FB10730A00][000001FB10F74C40 49] Linux, [000001FB10980600][000001FB10F78DC0 49] LinuxAArch64, [000001FB10733C00][000001FB10F7CF40 49] LinuxNoEditor, [000001FB10980E00][000001FB10F810C0 49] LinuxAArch64NoEditor, [000001FB10730D00][000001FB10F85240 49] LinuxClient, [000001FB10980200][000001FB10F893C0 49] LinuxAArch64Client, [000001FB10732100][000001FB10F8D540 49] LinuxServer, [000001FB106CC700][000001FB10F916C0 49] LinuxAArch64Server, [000001FB10731E00][000001FB10F51800 49] Android, [000001FB106CFB00][000001FB10F95940 49] Android_Low, [000001FB10732000][000001FB10F99A80 49] Android_Mid, [000001FB106CEC00][000001FB10F9DBC0 49] Android_High, [000001FB10733E00][000001FB10FA5D40 49] Android_Default, [000001FB106CF600][000001FB10FA8200 49] Android_Adreno4xx, [000001FB10732600][000001FB10FAC380 49] Android_Adreno5xx_Low, [000001FB106CCE00][000001FB10FB0500 49] Android_Adreno5xx, [000001FB10731900][000001FB10FB4680 49] Android_Adreno6xx, [000001FB106CD200][000001FB10FB8800 49] Android_Adreno6xx_Vulkan, [000001FB10730700][000001FB10FBC980 49] Android_Mali_T6xx, [000001FB106CFE00][000001FB10FC0B00 49] Android_Mali_T7xx, [000001FB10731800][000001FB10FC4C80 49] Android_Mali_T8xx, [000001FB106CDA00][000001FB10FC8E00 49] Android_Mali_G71, [000001FB10731500][000001FB10FCCF80 49] Android_Mali_G72, [000001FB106CD300][000001FB10FD1100 49] Android_Mali_G72_Vulkan, [000001FB10730900][000001FB10FD5280 49] Android_Mali_G76, [000001FB106CEB00][000001FB10FD9400 49] Android_Mali_G76_Vulkan, [000001FB10733900][000001FB10FDD580 49] Android_Mali_G77, [000001FB106CF400][000001FB10FE1700 49] Android_Mali_G77_Vulkan, [000001FB10733600][000001FB10FE5880 49] Android_Vulkan_SM5, [000001FB106CFD00][000001FB10FA19C0 49] Android_PowerVR_G6xxx, [000001FB10733400][000001FB10FE9B00 49] Android_PowerVR_GT7xxx, [000001FB106CE800][000001FB10FEDC40 49] Android_PowerVR_GE8xxx, [000001FB10732700][000001FB10FF4100 49] Android_PowerVR_GM9xxx, [000001FB106CFF00][000001FB10FF8280 49] Android_PowerVR_GM9xxx_Vulkan, [000001FB10732400][000001FB10FFC400 49] Android_TegraK1, [000001FB106CE200][000001FB11000580 49] Android_Unknown_Vulkan, [000001FB10733B00][000001FB11004700 49] Lumin, [000001FB10731D00][000001FB11008880 49] Lumin_Desktop, [000001FB1067E900][000001FB1100CA00 49] HoloLens, 
+[2021.07.15-09.17.49:566][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.15-09.17.49:566][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.15-09.17.49:566][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.15-09.17.49:566][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.15-09.17.49:566][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.15-09.17.49:579][  0]LogNetVersion: EscBasNor1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2938669646)
+[2021.07.15-09.17.49:950][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.15-09.17.49:976][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.025575 seconds
+[2021.07.15-09.17.49:982][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.15-09.17.49:982][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.15-09.17.49:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.15-09.17.50:275][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.15-09.17.50:279][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.15-09.17.50:395][  0]SourceControl: Source control is disabled
+[2021.07.15-09.17.50:395][  0]SourceControl: Source control is disabled
+[2021.07.15-09.17.50:398][  0]SourceControl: Source control is disabled
+[2021.07.15-09.17.50:401][  0]SourceControl: Source control is disabled
+[2021.07.15-09.17.50:403][  0]SourceControl: Source control is disabled
+[2021.07.15-09.17.50:409][  0]LogUProjectInfo: Found projects:
+[2021.07.15-09.17.50:540][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.15-09.17.50:556][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.15-09.17.50:556][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.15-09.17.50:596][  0]LogCollectionManager: Loaded 0 collections in 0.000557 seconds
+[2021.07.15-09.17.50:613][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/EscBasNor1/Saved/Collections/' took 0.00s
+[2021.07.15-09.17.50:613][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/EscBasNor1/Content/Developers/ВикторЗвягинский/Collections/' took 0.00s
+[2021.07.15-09.17.50:613][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/EscBasNor1/Content/Collections/' took 0.00s
+[2021.07.15-09.17.50:613][  0]LogOcInput: OculusInput pre-init called
+[2021.07.15-09.17.50:622][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.15-09.17.50:622][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.15-09.17.50:660][  0]LogEngine: Initializing Engine...
+[2021.07.15-09.17.50:661][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.15-09.17.50:661][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.15-09.17.50:661][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.15-09.17.50:748][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.15-09.17.50:754][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.15-09.17.50:770][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.15-09.17.50:773][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.15-09.17.50:773][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-09.17.50:773][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-09.17.50:773][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-09.17.50:773][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-09.17.50:785][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-09.17.50:785][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-09.17.50:819][  0]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Cloud Stinger Core (Wireless) – PS)
+[2021.07.15-09.17.50:824][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-09.17.50:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-09.17.50:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-09.17.50:826][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-09.17.50:826][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-09.17.50:826][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-09.17.50:827][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-09.17.50:827][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-09.17.50:827][  0]LogInit: FAudioDevice initialized.
+[2021.07.15-09.17.50:827][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.15-09.17.50:827][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.15-09.17.50:891][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/Виктор Звягинский/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.15-09.17.50:892][  0]LogInit: Texture streaming: Enabled
+[2021.07.15-09.17.50:901][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.15-09.17.50:907][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.15-09.17.50:907][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.15-09.17.50:917][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.15-09.17.50:937][  0]LogInit: Transaction tracking system initialized
+[2021.07.15-09.17.50:954][  0]BlueprintLog: New page: Editor Load
+[2021.07.15-09.17.51:008][  0]LocalizationService: Localization service is disabled
+[2021.07.15-09.17.51:026][  0]TimingProfiler: Initialize
+[2021.07.15-09.17.51:027][  0]TimingProfiler: OnSessionChanged
+[2021.07.15-09.17.51:027][  0]LoadingProfiler: Initialize
+[2021.07.15-09.17.51:027][  0]LoadingProfiler: OnSessionChanged
+[2021.07.15-09.17.51:027][  0]NetworkingProfiler: Initialize
+[2021.07.15-09.17.51:027][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.15-09.17.51:027][  0]MemoryProfiler: Initialize
+[2021.07.15-09.17.51:027][  0]MemoryProfiler: OnSessionChanged
+[2021.07.15-09.17.51:174][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.15-09.17.51:174][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.15-09.17.51:194][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/EscBasNor1/Content/' took 0.00s
+[2021.07.15-09.17.51:468][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.15-09.17.51:475][  0]SourceControl: Source control is disabled
+[2021.07.15-09.17.51:476][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.757
+[2021.07.15-09.17.51:476][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects/EscBasNor1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.15-09.17.51:476][  0]LightingResults: New page: Lighting Build
+[2021.07.15-09.17.51:476][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-09.17.51:477][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-09.17.51:477][  0]MapCheck: New page: Map Check
+[2021.07.15-09.17.51:477][  0]LightingResults: New page: Lighting Build
+[2021.07.15-09.17.51:482][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.15-09.17.51:617][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.07.15-09.17.51:690][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.07.15-09.17.51:691][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.07.15-09.17.51:704][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.15-09.17.51:712][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.15-09.17.51:712][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.15-09.17.51:712][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2021.07.15-09.17.51:712][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.237
+[2021.07.15-09.17.51:714][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.996
+[2021.07.15-09.17.51:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-09.17.51:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-09.17.51:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-09.17.51:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-09.17.51:857][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3601 classes and 859 folders.
+[2021.07.15-09.17.51:859][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.15-09.17.51:860][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.15-09.17.51:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-09.17.51:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.07.15-09.17.51:861][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.15-09.17.51:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.15-09.17.51:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.07.15-09.17.51:861][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.15-09.17.51:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.15-09.17.51:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.15-09.17.51:862][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-09.17.51:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-09.17.51:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.15-09.17.51:862][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.15-09.17.51:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.15-09.17.51:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.15-09.17.51:863][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.15-09.17.51:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.15-09.17.51:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.15-09.17.51:863][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.15-09.17.51:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.15-09.17.51:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.07.15-09.17.51:864][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.15-09.17.51:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.15-09.17.51:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.07.15-09.17.51:864][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.15-09.17.51:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.15-09.17.51:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.15-09.17.51:865][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.15-09.17.51:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.15-09.17.51:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.15-09.17.51:865][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.15-09.17.51:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.15-09.17.51:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.07.15-09.17.51:866][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.15-09.17.51:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.15-09.17.51:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.07.15-09.17.51:866][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-09.17.51:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-09.17.51:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.07.15-09.17.51:867][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.15-09.17.51:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.15-09.17.51:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.15-09.17.51:867][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.15-09.17.51:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.15-09.17.51:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.07.15-09.17.51:868][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.15-09.17.51:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-09.17.51:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.07.15-09.17.51:868][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.15-09.17.51:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.15-09.17.51:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.07.15-09.17.51:869][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.15-09.17.51:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.15-09.17.51:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.15-09.17.51:869][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-09.17.51:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-09.17.51:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.15-09.17.51:870][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-09.17.51:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-09.17.51:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.07.15-09.17.51:870][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.15-09.17.51:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-09.17.51:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.07.15-09.17.51:871][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.15-09.17.51:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.15-09.17.51:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.15-09.17.51:871][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.15-09.17.51:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.15-09.17.51:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.07.15-09.17.51:872][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.15-09.17.51:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.15-09.17.51:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.07.15-09.17.51:872][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-09.17.51:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-09.17.51:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.15-09.17.51:873][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.15-09.17.51:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-09.17.51:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.15-09.17.51:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.15-09.17.51:901][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.15-09.17.51:902][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.07.15-09.17.51:987][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.15-09.17.51:989][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.15-09.17.51:992][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.15-09.17.52:063][  0]LogRenderer: Reallocating scene render targets to support 1260x420 Format 10 NumSamples 1 (Frame:1).
+[2021.07.15-09.17.52:151][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.15-09.17.52:151][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.07.15-09.17.52:151][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.07.15-09.17.52:151][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.07.15-09.17.52:151][  0]LogLoad: (Engine Initialization) Total time: 5.43 seconds
+[2021.07.15-09.17.52:151][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.15-09.17.52:151][  0]LogInit: First time updating LLM stats...
+[2021.07.15-09.17.52:182][  0]LogAssetRegistry: Asset discovery search completed in 2.9117 seconds
+[2021.07.15-09.17.52:183][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.07.15-09.17.52:208][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.15-09.18.06:174][614]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.15-09.18.06:524][632]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.18.06:585][633]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.07.15-09.18.06:585][633]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.07.15-09.18.06:585][633]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.07.15-09.18.06:585][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.07.15-09.18.06:605][633]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.18.06:634][634]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.18.06:662][635]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.18.09:897][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2021.07.15-09.18.10:018][883]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 92
+[2021.07.15-09.18.10:242][907]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.07.15-09.18.10:275][911]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.07.15-09.18.13:069][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.07.15-09.18.13:304][250]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2021.07.15-09.18.14:105][341]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.07.15-09.18.14:158][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.07.15-09.18.16:482][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.07.15-09.18.16:853][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.07.15-09.18.16:853][644]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.07.15-09.18.18:189][786]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-09.18.18:215][789]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.07.15-09.18.18:317][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.07.15-09.18.18:727][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-09.18.18:816][844]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.15-09.18.20:843][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.15-09.18.42:851][303]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Unreal Projects/EscBasNor1/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.15-09.18.42:851][303]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Unreal Projects/EscBasNor1/Content/Developers/ВикторЗвягинский/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.15-09.18.42:851][303]LogDirectoryWatcher: Display: A directory notification failed for 'F:/Unreal Projects/EscBasNor1/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.07.15-09.19.08:355][764]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.07.15-09.19.08:400][764]LogBlueprint: Warning: [AssetLog] F:\Unreal Projects\EscBasNor1\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2021.07.15-09.19.08:479][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:479][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_180' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:479][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_243' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:479][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_256' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_268' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:UserConstructionScript' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:480][764]LogMetaData: Removing '/Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2021.07.15-09.19.08:518][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Aim_Space_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:523][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Aim_Space_Hip28B76A804225B0B34D781483C15404CD.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Aim_Space_Hip.uasset'
+[2021.07.15-09.19.08:532][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Aim_Space_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.08:538][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Aim_Space_Ironsights5B886D7A46EF6DE4B1FD05B974A00EF6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2021.07.15-09.19.08:546][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/BS_CrouchWalk" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2021.07.15-09.19.08:552][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/BS_CrouchWalkFC735D6846C3DC7C295BA3B45A2D2E72.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/BS_CrouchWalk.uasset'
+[2021.07.15-09.19.08:560][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/BS_Jog" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2021.07.15-09.19.08:565][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/BS_Jog035F097F426F7F47C9A7E8AACE3FA7D6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/BS_Jog.uasset'
+[2021.07.15-09.19.08:573][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Crouch_Idle_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:579][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Idle_Rifle_Hip1EFBDDDD4B8588124C21E09EBD446CEA.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:592][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Idle_Rifle_IronsightsCFAA93094EB70260F613E7B9E7631764.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:601][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Crouch_to_Stand_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:606][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_to_Stand_Rifle_HipD5F857DD4F11B5A8CA68109422BF69BC.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:619][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_to_Stand_Rifle_Ironsights5E9A1A22489112EC015119B3FD23A226.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:627][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:632][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Bwd_Rifle_HipCEA243D5414DABEF285ED19CC2EC4E73.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:645][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Bwd_Rifle_IronsightsAD36364E409FD3A1417E298204210F6B.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:652][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:658][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Fwd_Rifle_Hip255662824F3A27B9D50A1285F200872E.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:671][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Fwd_Rifle_Ironsights1DFA9D3B4C6D0CA0B6185BA024CF62B6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:679][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:684][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Lt_Rifle_Hip3779DD0145574681DA68D4A9FFB400F9.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:697][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Lt_Rifle_Ironsights5701E5AC4AEF6CD4E450D7B78380BE8E.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:705][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:713][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Rt_Rifle_HipEAFF2DD54A4215610192C198702904B3.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:727][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Crouch_Walk_Rt_Rifle_Ironsights83A4B84B4447F4D4CE5E82A5419F518A.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:734][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Death_1" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_1.uasset" SILENT=true
+[2021.07.15-09.19.08:739][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Death_1D79A76E64C88D0B7A5DB3EA1B012870F.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_1.uasset'
+[2021.07.15-09.19.08:747][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Death_2" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_2.uasset" SILENT=true
+[2021.07.15-09.19.08:752][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Death_2A47BEF644C2B69721E6D7CA806B33117.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_2.uasset'
+[2021.07.15-09.19.08:760][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Death_3" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_3.uasset" SILENT=true
+[2021.07.15-09.19.08:765][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Death_305AA2A0546BFD12680143FBB6A789659.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_3.uasset'
+[2021.07.15-09.19.08:773][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Death_Ironsights_1" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2021.07.15-09.19.08:778][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Death_Ironsights_1D6415ECE4686C0B4DFE64B94606FBCEA.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_Ironsights_1.uasset'
+[2021.07.15-09.19.08:786][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Death_Ironsights_2" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2021.07.15-09.19.08:791][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Death_Ironsights_2DFC7161A414645980BC931848990E088.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Death_Ironsights_2.uasset'
+[2021.07.15-09.19.08:799][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Equip_Pistol_Standing" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Equip_Pistol_Standing.uasset" SILENT=true
+[2021.07.15-09.19.08:805][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Equip_Pistol_Standing0305BD2948FB576983FCB482640A6BBA.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2021.07.15-09.19.08:813][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Equip_Rifle_Standing" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2021.07.15-09.19.08:818][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Equip_Rifle_Standing5ABBED444D28132E3CD1F490BE82AA53.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2021.07.15-09.19.08:826][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Fire_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:830][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Fire_Rifle_HipE3C6363C4742B73E4D1B89B7618891A4.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:838][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Fire_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.08:844][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Fire_Rifle_Ironsights0FD40F0A441407DC9CA1568634E1F82B.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.08:852][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Fire_Shotgun_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:857][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Fire_Shotgun_HipDD4E64A742200BA25786BF960910F73D.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2021.07.15-09.19.08:865][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Fire_Shotgun_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.08:870][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Fire_Shotgun_IronsightsCAF9FCF844A02217613C70968BC5C55E.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2021.07.15-09.19.08:878][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Hit_React_1" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2021.07.15-09.19.08:883][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Hit_React_198DC194443049D815CD05B83170CC42B.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_1.uasset'
+[2021.07.15-09.19.08:891][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Hit_React_2" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2021.07.15-09.19.08:898][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Hit_React_29BCAFF174E4A64873476EEBBC9F2429D.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_2.uasset'
+[2021.07.15-09.19.08:906][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Hit_React_3" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2021.07.15-09.19.08:911][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Hit_React_32C55507D47D4443163D66EB9CEA0BE21.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_3.uasset'
+[2021.07.15-09.19.08:920][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Hit_React_4" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2021.07.15-09.19.08:925][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Hit_React_4684E61214C6CA9B334A860A6E99F5CA2.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Hit_React_4.uasset'
+[2021.07.15-09.19.08:933][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Idle_Pistol" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2021.07.15-09.19.08:939][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Idle_Pistol096B5EFB4425D53366D70CB9BB992992.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Pistol.uasset'
+[2021.07.15-09.19.08:947][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Idle_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.08:953][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Idle_Rifle_HipD42A87DE4FD62EDEC0808E9F16D65C90.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2021.07.15-09.19.08:961][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Idle_Rifle_Hip_Break1" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" SILENT=true
+[2021.07.15-09.19.08:966][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Idle_Rifle_Hip_Break16775384248B31404D00648A72D13D84C.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2021.07.15-09.19.08:974][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Idle_Rifle_Hip_Break2" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" SILENT=true
+[2021.07.15-09.19.08:980][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Idle_Rifle_Hip_Break2C4BAC0DC4A90F0015585A1B493D634AA.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2021.07.15-09.19.08:988][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Idle_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.08:993][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Idle_Rifle_IronsightsE38626114A3E7D2D6564B88CE307BBB2.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:001][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Jog_Bwd_Rifle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2021.07.15-09.19.09:006][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jog_Bwd_RifleC541A6AF4407FD0FC1F5428324421E84.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2021.07.15-09.19.09:014][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Jog_Fwd_Rifle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2021.07.15-09.19.09:019][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jog_Fwd_Rifle8D96E2AF495DBC5889A5A999E1BA59FF.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2021.07.15-09.19.09:027][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Jog_Lt_Rifle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2021.07.15-09.19.09:033][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jog_Lt_Rifle7D115AEF476531280D27BF9C846A7A80.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2021.07.15-09.19.09:041][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Jog_Rt_Rifle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2021.07.15-09.19.09:046][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jog_Rt_RifleDF1EAA0A4CD14B60F3A836811B5C7233.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2021.07.15-09.19.09:054][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Jump_From_Jog" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jump_From_Jog.uasset" SILENT=true
+[2021.07.15-09.19.09:067][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jump_From_JogE2C12EF94D137E64234B9BAC079F735F.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jump_From_Jog.uasset'
+[2021.07.15-09.19.09:075][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Jump_From_Stand" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jump_From_Stand.uasset" SILENT=true
+[2021.07.15-09.19.09:080][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jump_From_Stand9C7AB1654587E4E5E1D615A61D04D24A.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jump_From_Stand.uasset'
+[2021.07.15-09.19.09:094][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Jump_From_Stand_IronsightsD92AB19F4CF3B886BE1E3E9220439B71.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Jump_From_Stand_Ironsights.uasset'
+[2021.07.15-09.19.09:102][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Death_1" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Death_1.uasset" SILENT=true
+[2021.07.15-09.19.09:107][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Death_15A790842409E62D7DE1B069CC1125E96.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Death_1.uasset'
+[2021.07.15-09.19.09:115][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Death_2" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Death_2.uasset" SILENT=true
+[2021.07.15-09.19.09:121][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Death_2040385C84D9FC9BE3E5FB0AD8C832863.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Death_2.uasset'
+[2021.07.15-09.19.09:129][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Fire_1" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Fire_1.uasset" SILENT=true
+[2021.07.15-09.19.09:134][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Fire_12FA4B33F4A67BE85594E63B38A41C738.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Fire_1.uasset'
+[2021.07.15-09.19.09:142][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Fire_2" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Fire_2.uasset" SILENT=true
+[2021.07.15-09.19.09:147][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Fire_232BB6D0944C82AB7AD93F5A1FF484C3B.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Fire_2.uasset'
+[2021.07.15-09.19.09:155][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Idle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Idle.uasset" SILENT=true
+[2021.07.15-09.19.09:161][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Idle4297911741325017EFCB639C6DF909E3.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Idle.uasset'
+[2021.07.15-09.19.09:169][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Reload_Rifle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Reload_Rifle.uasset" SILENT=true
+[2021.07.15-09.19.09:174][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Reload_Rifle59135821467372374EF1BD80B34BBA83.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Reload_Rifle.uasset'
+[2021.07.15-09.19.09:182][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_Reload_Shotgun" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Reload_Shotgun.uasset" SILENT=true
+[2021.07.15-09.19.09:188][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_Reload_ShotgunDF9072B94FF79452BA2CB3B210475C0C.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_Reload_Shotgun.uasset'
+[2021.07.15-09.19.09:196][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Prone_To_Stand" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_To_Stand.uasset" SILENT=true
+[2021.07.15-09.19.09:201][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Prone_To_Stand67F226E04116C754797BFCB52E2450D4.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Prone_To_Stand.uasset'
+[2021.07.15-09.19.09:209][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Reload_Pistol" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Pistol.uasset" SILENT=true
+[2021.07.15-09.19.09:213][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Reload_PistolF9E85A6843E6FBD1266C09B42D813D68.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Pistol.uasset'
+[2021.07.15-09.19.09:221][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Reload_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.09:227][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Reload_Rifle_Hip721EEBDB44695B52CA7F7C9CA25515D7.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Rifle_Hip.uasset'
+[2021.07.15-09.19.09:235][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Reload_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.09:240][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Reload_Rifle_Ironsights12EA29114178752E96E410BF79D72E7A.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:248][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Reload_Shotgun_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Shotgun_Hip.uasset" SILENT=true
+[2021.07.15-09.19.09:278][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Reload_Shotgun_Hip74F78406400A6379889B73B7DB67DDB6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Shotgun_Hip.uasset'
+[2021.07.15-09.19.09:287][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Reload_Shotgun_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.09:292][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Reload_Shotgun_Ironsights43F092384FEF0C4DE6C49B85908D38AC.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Reload_Shotgun_Ironsights.uasset'
+[2021.07.15-09.19.09:293][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Showcase" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Showcase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-09.19.09:294][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Anim/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2021.07.15-09.19.09:304][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.07.15-09.19.09:331][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/ShowcaseAC5D145C4B68CFC48E1362ADD4389CE3.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Showcase.umap'
+[2021.07.15-09.19.09:334][764]LogFileHelpers: Saving map 'Showcase' took 0.041
+[2021.07.15-09.19.09:342][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Sprint_Fwd_Rifle" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2021.07.15-09.19.09:350][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Sprint_Fwd_Rifle5D3183474DDC0589694CBF9AE8C3107D.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Sprint_Fwd_Rifle.uasset'
+[2021.07.15-09.19.09:358][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Stand_to_Crouch_Rifle_Hip" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" SILENT=true
+[2021.07.15-09.19.09:363][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Stand_to_Crouch_Rifle_HipF2508EA943E564E9EED40183609634E6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset'
+[2021.07.15-09.19.09:375][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Stand_to_Crouch_Rifle_Ironsights1FC59F7C4C427D905C49DCB57DAE6666.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:383][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Stand_To_Prone" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Stand_To_Prone.uasset" SILENT=true
+[2021.07.15-09.19.09:388][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Stand_To_Prone2102CFCE4080EE19B48DFCA639ECC953.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Stand_To_Prone.uasset'
+[2021.07.15-09.19.09:401][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Ue4ASP_Character" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Ue4ASP_Character.uasset" SILENT=true
+[2021.07.15-09.19.09:420][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Ue4ASP_CharacterF388E8D3427054A49D827B9A185C35DD.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Ue4ASP_Character.uasset'
+[2021.07.15-09.19.09:483][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4ASP_HeroTPP_AnimBlueprint00A0654A4413D106E3F7B8B72FFD4BCB.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2021.07.15-09.19.09:491][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Walk_Bwd_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.09:505][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Walk_Bwd_Rifle_Ironsights55C9E98B4788BBEB1EADA290DD624EB6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:513][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Walk_Fwd_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.09:519][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Walk_Fwd_Rifle_IronsightsF973035240F5CB7F37C56B9D20261352.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:527][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Walk_Lt_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.09:532][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Walk_Lt_Rifle_Ironsights09CE811C432C3F7604D4E9A54A932ECC.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:540][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Anim/AnimStarterPack/Walk_Rt_Rifle_Ironsights" FILE="../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" SILENT=true
+[2021.07.15-09.19.09:545][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/Walk_Rt_Rifle_IronsightsFB2B5B244DC20C607C63CC8613252157.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset'
+[2021.07.15-09.19.09:562][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/M_UE4Man_BodyA79940B44626A863B162EB93C1EE121C.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset'
+[2021.07.15-09.19.09:575][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/M_UE4Man_ChestLogo00C2AFCE4F22A05A0AB64387E28D30C8.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset'
+[2021.07.15-09.19.09:576][764]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.19.09:595][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.07.15-09.19.09:595][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.07.15-09.19.09:595][764]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.07.15-09.19.09:595][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.07.15-09.19.09:619][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/ML_GlossyBlack_Latex_UE4B797FCED43A7196575768A820D325D54.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2021.07.15-09.19.09:622][764]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.19.09:673][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/ML_Plastic_Shiny_Beige8FDC0C704E4A7DDAE65617B6ABF69972.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2021.07.15-09.19.09:674][764]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.19.09:723][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/ML_Plastic_Shiny_Beige_LOGOCB6096264EEBFF53FDC7A5A552E53791.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2021.07.15-09.19.09:726][764]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.07.15-09.19.09:768][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/ML_SoftMetal_UE4D6892F064CE72CD93ADBC08C4CF2FCE0.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2021.07.15-09.19.09:783][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/T_ML_Aluminum0193E62A6C4A3E9BA53F50158EC055981E.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2021.07.15-09.19.09:798][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/T_ML_Aluminum01_NA5CCBD1D41E90742F317EF9F1BF62EA6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2021.07.15-09.19.09:814][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/T_ML_Rubber_Blue_01_DCD5920EF476A6AF56CCF609BC1A3C322.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2021.07.15-09.19.09:828][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/T_ML_Rubber_Blue_01_N50BEC8E8423C5162C653FF851FA9CD9A.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2021.07.15-09.19.09:895][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/SK_Mannequin85BE38CA47A0978653BBC89252B7C3D6.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2021.07.15-09.19.09:923][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/SK_Mannequin_PhysicsAsset65B780DC48F188F4CD8F01A2ABAFD7B8.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2021.07.15-09.19.09:925][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4_Mannequin_Skeleton5A2CB1EE4917E95E2887CBB7CCBB3753.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.07.15-09.19.09:941][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4Man_Logo_N982451E940AEE192A5C1679F139CCF9A.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset'
+[2021.07.15-09.19.09:954][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4_LOGO_CARD104EDA7146485148DA6E2F83F3102CED.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset'
+[2021.07.15-09.19.09:970][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4_Mannequin_MAT_MASKA318CE4E742E67B0D539A25867DC4218C.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2021.07.15-09.19.09:987][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4_Mannequin_occlusion_Mobile9461254D4CE1F5E94789099FB86A16F5.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset'
+[2021.07.15-09.19.10:060][764]LogSavePackage: Moving '../../../../Unreal Projects/EscBasNor1/Saved/UE4_Mannequin__normals91D227C949E859743ED519BC35EB61B0.tmp' to '../../../../Unreal Projects/EscBasNor1/Content/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset'
+[2021.07.15-09.19.10:389][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.07.15-09.19.10:396][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.15-09.19.10:400][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.07.15-09.19.10:404][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:409][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:414][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.07.15-09.19.10:418][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:423][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.15-09.19.10:428][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:433][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:438][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:442][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.07.15-09.19.10:447][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:451][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.07.15-09.19.10:456][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:460][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:465][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:469][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.07.15-09.19.10:474][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.07.15-09.19.10:478][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:483][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:487][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:492][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.07.15-09.19.10:497][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:501][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:505][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.07.15-09.19.10:510][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.15-09.19.10:514][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:519][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:524][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:528][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.07.15-09.19.10:533][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:538][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:542][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.15-09.19.10:546][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.15-09.19.10:550][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:554][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:559][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:563][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:568][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.15-09.19.10:573][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:577][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.07.15-09.19.10:582][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:586][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:594][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:598][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:603][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:608][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:613][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:618][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:622][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:626][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.07.15-09.19.10:631][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:636][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.15-09.19.10:640][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.07.15-09.19.10:644][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:649][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:653][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.07.15-09.19.10:658][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:663][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:667][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:671][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:676][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:680][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:685][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:689][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:693][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.15-09.19.10:698][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.07.15-09.19.10:702][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.15-09.19.10:707][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:712][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.07.15-09.19.10:716][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.15-09.19.10:721][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.07.15-09.19.10:725][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.07.15-09.19.10:729][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.07.15-09.19.10:735][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.07.15-09.19.10:740][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.07.15-09.19.10:745][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.07.15-09.19.10:749][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.07.15-09.19.10:754][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.07.15-09.19.10:759][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.15-09.19.10:763][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.15-09.19.10:768][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.15-09.19.10:773][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.07.15-09.19.10:778][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.07.15-09.19.10:796][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.07.15-09.19.10:801][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.07.15-09.19.10:870][764]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-09.19.10:870][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Hit_React_1.Hit_React_1
+[2021.07.15-09.19.10:870][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2021.07.15-09.19.10:870][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2021.07.15-09.19.10:870][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2021.07.15-09.19.10:870][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2021.07.15-09.19.10:870][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Death_3.Death_3
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Death_2.Death_2
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Death_1.Death_1
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating BlendSpace /Game/Anim/AnimStarterPack/BS_Jog.BS_Jog
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating BlendSpace /Game/Anim/AnimStarterPack/BS_CrouchWalk.BS_CrouchWalk
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2021.07.15-09.19.10:871][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating Skeleton /Game/Anim/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Hit_React_2.Hit_React_2
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Hit_React_3.Hit_React_3
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Hit_React_4.Hit_React_4
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Idle.Prone_Idle
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2021.07.15-09.19.10:872][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating MaterialFunction /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating MaterialFunction /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating MaterialFunction /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating MaterialFunction /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Material /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating Texture2D /Game/Anim/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Anim/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating PhysicsAsset /Game/Anim/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating SkeletalMesh /Game/Anim/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2021.07.15-09.19.10:873][764]LogContentValidation: Display: Validating World /Game/Anim/AnimStarterPack/Showcase.Showcase
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating Blueprint /Game/Anim/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimBlueprint /Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2021.07.15-09.19.10:874][764]LogContentValidation: Display: Validating AnimSequence /Game/Anim/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2021.07.15-09.19.12:953][877]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2021.07.15-09.19.13:187][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 92
+[2021.07.15-09.19.13:378][897]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.07.15-09.19.13:378][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.07.15-09.19.16:380][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.07.15-09.19.16:752][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2021.07.15-09.19.17:626][152]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.07.15-09.19.17:646][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.07.15-09.19.20:257][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.07.15-09.19.20:608][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.07.15-09.19.20:640][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.07.15-09.19.22:196][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.07.15-09.19.22:287][438]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.07.15-09.19.22:358][443]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.07.15-09.19.22:798][472]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-09.19.23:038][488]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.15-09.19.26:159][768]LogObjectTools: Deleting 1 worlds: /Game/Anim/AnimStarterPack/Showcase.Showcase
+[2021.07.15-09.19.26:159][768]LogObjectTools: Currently 12 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2021.07.15-09.19.26:163][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.15-09.19.27:587][768]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.15-09.19.27:609][768]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Anim/AnimStarterPack/Showcase.Showcase
+	Asset Name: /Game/Anim/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+	Asset Name: /Game/Anim/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+	Asset Name: /Game/Anim/AnimStarterPack/Showcase.MapBuildDataRegistry
+[2021.07.15-09.19.27:895][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.15-09.19.27:896][768]LogWorld: UWorld::CleanupWorld for Showcase, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-09.19.27:896][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-09.19.27:905][768]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.15-09.19.28:831][768]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.926 s
+[2021.07.15-09.19.28:831][768]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.15-09.19.28:831][768]LogOutputDevice: Error: 
+[2021.07.15-09.19.28:831][768]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3129]
+[2021.07.15-09.19.28:831][768]LogOutputDevice: Error: 
+[2021.07.15-09.19.28:831][768]LogOutputDevice: Error: Stack: 
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97ed2a089 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97e5ca5cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97dd240d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97dfffbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97dff70b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999d5859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999d7071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999bb46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c37f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c20337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c13632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d70abcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d7099197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d70ae389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d7094310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ffa05efe858 USER32.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ffa05efe299 USER32.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d70af7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c42233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999bdd485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97e08c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97e5be2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff97e5bd707 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9634d6f4c UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9634d732a UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9634c7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff975b7dc15 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff975c91d9e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff975c73a16 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999be33a9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c1c62a UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff975cad9fb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999bb25b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c1e368 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff999c12226 UE4Editor-Slate.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d70ab958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d7099197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d70ae389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d7094310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ffa05efe858 USER32.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ffa05efe299 USER32.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff9d70af914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff7b5538848 UE4Editor.exe!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff7b555117c UE4Editor.exe!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff7b555125a UE4Editor.exe!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff7b55652bd UE4Editor.exe!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ff7b5567fea UE4Editor.exe!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ffa065b7034 KERNEL32.DLL!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: [Callstack] 0x00007ffa06d22651 ntdll.dll!UnknownFunction []
+[2021.07.15-09.19.28:832][768]LogOutputDevice: Error: 
